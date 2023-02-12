@@ -57,6 +57,7 @@ namespace FightClub.Characters
             Strength = strength;
             Agility = agility;
             Endurance = endurance;
+
         }
 
         public int Hit(Character victim)
